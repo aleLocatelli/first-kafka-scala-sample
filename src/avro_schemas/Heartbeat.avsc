@@ -1,0 +1,8 @@
+{
+  "type" : "record",
+  "namespace" : "org.model",
+  "name" : "SensorHeartbeat",
+  "fields" : [
+    { "name" : "SensorId" , "type" : "string" }
+  ]
+}

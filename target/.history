@@ -1,0 +1,13 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/7h/552xcbb93qsc65437jg5zqwc0000gp/T/sbt-structure.xml
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/7h/552xcbb93qsc65437jg5zqwc0000gp/T/sbt-structure.xml; session clear-all
+all {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/products {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/7h/552xcbb93qsc65437jg5zqwc0000gp/T/sbt-structure.xml; session clear-all
+all {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/products {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/7h/552xcbb93qsc65437jg5zqwc0000gp/T/sbt-structure.xml; session clear-all
+all {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/products {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/7h/552xcbb93qsc65437jg5zqwc0000gp/T/sbt-structure.xml; session clear-all
+all {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/products {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/7h/552xcbb93qsc65437jg5zqwc0000gp/T/sbt-structure.xml; session clear-all
+all {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/products {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/7h/552xcbb93qsc65437jg5zqwc0000gp/T/sbt-structure.xml; session clear-all
+all {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/products {file:/Users/alocatelli/workspace/kafka-sample/}kafka-sample/test:products
