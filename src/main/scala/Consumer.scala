@@ -12,7 +12,7 @@ class Consumer(topic: List[String]) extends Logging {
   def receiveMessages(): Unit = {
     while (true) {
       val records: ConsumerRecords[String, SensorHeartbeat] = consumer.poll(1000)
-      println("@@@@@@ " + records.isEmpty)
+      println(s"######### Poll with empty result: ${records.isEmpty}")
       records.asScala.foreach(record => println(s"Received message: $record"))
     }
   }
@@ -21,7 +21,7 @@ class Consumer(topic: List[String]) extends Logging {
 
 object Consumer extends App {
 
-  val consumer = new Consumer(List("Sensor1-heartbeat","Sensor2-heartbeat"))
+  val consumer = new Consumer(List("Sensor1-heartbeat","Sensor4-heartbeat","Sensor2-heartbeat","Sensor3-heartbeat"))
   consumer.receiveMessages()
 
 }
